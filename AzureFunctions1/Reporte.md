@@ -1,5 +1,5 @@
 # Curso Innovacción Virtual, práctica: Azure Functions.
-![Logo](imgs/Logo.PNG)
+![Logo](imgs/Logo.png)
 
 ## Introducción
 Las funciones de Azure nos permiten programar actividades que se accionarán cuando un disparador las activa.
