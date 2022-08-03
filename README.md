@@ -1,2 +1,4 @@
-# InnovaccionVirtual7IAWizards
-Prácticas y demás cosas sobre mi aprendizaje durante mi participación en Innovacción virtual.
+# Prácticas, actividades y demás cosas que realizamos en el grupo IAWizards de Innovacción Virtual.
+
+## Prácticas del reto.
+[Creación y acceso por escritorio remoto a Máquinas Virtuales.](/VM/Reporte.md).
